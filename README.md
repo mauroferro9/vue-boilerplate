@@ -1,4 +1,4 @@
-# vue-scaffold
+# vue-boilerplate
 
 A VueJs project with:
 + Vue Router
