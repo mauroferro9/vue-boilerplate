@@ -1,13 +1,15 @@
 # vue-scaffold
 
 A VueJs project with:
-+ Sass
-+ i18n
-+ Jest
-+ PWA
 + Vue Router
 + Vuex
++ Sass
++ Jest
++ PWA
 + Eslint
+
+Plugins
++ i18n
 + Font Awesome 5
 + Mobile Detect
 + Heroku
