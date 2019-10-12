@@ -1,6 +1,6 @@
 # vue-boilerplate
 
-A VueJs project with:
+A VueJs 2 project with:
 + Vue Router
 + Vuex
 + Sass
